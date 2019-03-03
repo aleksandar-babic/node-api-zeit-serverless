@@ -1,0 +1,13 @@
+{
+  "name": "node-api-zeit-serverless",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:aleksandar-babic/node-api-zeit-serverless.git",
+  "author": "Aleksandar Babic <aleksandar.b@vivifyideas.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.15.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
